@@ -1,0 +1,35 @@
+[33mcommit 4ad027b01a5b7e16bf42c352e6717f7b423b374d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mnew/login[m[33m)[m
+Author: blue <2944146351@qq.com>
+Date:   Sat Apr 5 23:16:37 2025 +0800
+
+    不管怎么样，我想再保存一次，能跑，但是有bug，接下来我要大胆操作了
+
+[33mcommit 71b3813225a091121c5033d915b8f165b7b00af6[m
+Author: blue <2944146351@qq.com>
+Date:   Sat Apr 5 22:07:39 2025 +0800
+
+    能跑但是前端无法收到视频和代码
+
+[33mcommit 6508e2a5dac42b05f5151b5303773e42c0d45633[m
+Author: blue <2944146351@qq.com>
+Date:   Sat Apr 5 22:01:02 2025 +0800
+
+    能跑但是有bug
+
+[33mcommit e8ef45b4daa2b995ada8560c8a8c635cf2ce8cdf[m
+Author: blue <2944146351@qq.com>
+Date:   Sat Apr 5 20:24:38 2025 +0800
+
+    开始debug
+
+[33mcommit 0d5b6a2010e4fa6fa05bdd8ce7a25ef6c886e4a3[m
+Author: blue <2944146351@qq.com>
+Date:   Fri Apr 4 23:36:33 2025 +0800
+
+    api和模型更换搞定了
+
+[33mcommit d7ce550d761af26b8a3dccd8f9d0701eb7a208f9[m
+Author: blue <2944146351@qq.com>
+Date:   Fri Apr 4 21:58:59 2025 +0800
+
+    未开发登录功能时的版本
